@@ -19,6 +19,8 @@
 | tychelewustl/test2:egp | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](egp/Dockerfile) | [Folder](egp) | several requisites for EGP |
 | tychelewustl/test2:sig2 | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](SigProfilerSimulator/Dockerfile) | [Folder](SigProfilerSimulator/) | SigProfilerSimulator related scripts |
 | tychelewustl/unfazed:v1.0.2 | [Link](https://hub.docker.com/r/tychelewustl/unfazed) | [Dockerfile](unfazed/Dockerfile) | [Folder](unfazed/) | unfazed related scripts |
+| tychelewustl/asciigenome:version1 | [Link](https://hub.docker.com/r/tychelewustl/asciigenome) | [Dockerfile](asciigenome/Dockerfile) | [Folder](asciigenome/) | `/opt/conda/bin/ASCIIGenome` |
+
 
 #### This table contains Dockers I have used that were created by others
 
