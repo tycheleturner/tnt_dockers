@@ -14,6 +14,7 @@
 | tychelewustl/bwa:version1 | [Link](https://hub.docker.com/r/tychelewustl/bwa/) | [Dockerfile](bwa/Dockerfile) | [Folder](bwa) | several requisites for running manta and bwa |
 | tychelewustl/qmer_fcn:version1 | [Link](https://hub.docker.com/r/tychelewustl/qmer_fcn) | [Dockerfile](qmer_fcn/Dockerfile) | [Folder](qmer_fcn) | several requisites for running QuicK-mer2 and fastCN |
 | tychelewustl/minimap2:version1 | [Link](https://hub.docker.com/r/tychelewustl/minimap2) | [Dockerfile](minimap2/Dockerfile) | [Folder](minimap2) | `/opt/conda/bin/minimap2` |
+| tychelewustl/isoseq3:version1 | [Link](https://hub.docker.com/r/tychelewustl/isoseq3) | [Dockerfile](isoseq3/Dockerfile) | [Folder](isoseq3) | several programs for isoseq3 analyses |
 
 #### This table contains Dockers I have used that were created by others
 
