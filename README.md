@@ -13,6 +13,7 @@
 | tychelewustl/test2:rdna | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](rdna/Dockerfile) | [Folder](rdna) | several requisites for running RNA scripts, digital karyotype scripts |
 | tychelewustl/bwa:version1 | [Link](https://hub.docker.com/r/tychelewustl/bwa/) | [Dockerfile](bwa/Dockerfile) | [Folder](bwa) | several requisites for running manta and bwa |
 | tychelewustl/qmer_fcn:version1 | [Link](https://hub.docker.com/r/tychelewustl/qmer_fcn) | [Dockerfile](qmer_fcn/Dockerfile) | [Folder](qmer_fcn) | several requisites for running QuicK-mer2 and fastCN |
+| tychelewustl/minimap2:version1 | [Link](https://hub.docker.com/r/tychelewustl/minimap2) | [Dockerfile](minimap2/Dockerfile) | [Folder](minimap2) | `/opt/conda/bin/minimap2` |
 
 #### This table contains Dockers I have used that were created by others
 
