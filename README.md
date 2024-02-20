@@ -13,7 +13,7 @@
 #### This table contains Dockers I have used that were created by others
 
 | Docker Name |
-| :---: | :---: |
+| :---: |
 | google/deepvariant:1.0.0 |
 
 
