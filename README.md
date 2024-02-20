@@ -18,7 +18,7 @@
 | tychelewustl/exomiser_b38:version1 | [Link](https://hub.docker.com/r/tychelewustl/exomiser_b38) | [Dockerfile](exomiser_b38/Dockerfile) | [Folder](exomiser_b38/) | `/opt/conda/bin/java -jar exomiser-cli-12.1.0.jar` |
 | tychelewustl/test2:egp | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](egp/Dockerfile) | [Folder](egp) | several requisites for EGP |
 | tychelewustl/test2:sig2 | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](SigProfilerSimulator/Dockerfile) | [Folder](SigProfilerSimulator/) | SigProfilerSimulator related scripts |
-
+| tychelewustl/unfazed:v1.0.2 | [Link](https://hub.docker.com/r/tychelewustl/unfazed) | [Dockerfile](unfazed/Dockerfile) | [Folder](unfazed/) | unfazed related scripts |
 
 #### This table contains Dockers I have used that were created by others
 
