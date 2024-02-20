@@ -15,5 +15,5 @@
 | Docker Name |
 | :---: |
 | google/deepvariant:1.0.0 |
-
+| quay.io/mlin/glnexus:v1.2.7 |
 
