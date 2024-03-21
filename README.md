@@ -21,6 +21,7 @@
 | tychelewustl/asciigenome:version1 | [Link](https://hub.docker.com/r/tychelewustl/asciigenome) | [Dockerfile](asciigenome/Dockerfile) | [Folder](asciigenome/) | `/opt/conda/bin/ASCIIGenome` |
 | tychelewustl/qmertools:version3 | [Link](https://hub.docker.com/r/tychelewustl/qmertools/) | [Dockerfile](qmerTools/Dockerfile) | [Folder](qmerTools) | qmerTools docker | 
 | tychelewustl/julia:dfvcfap | [Link](https://hub.docker.com/repository/docker/tychelewustl/julia/) | [Dockerfile](julia/Dockerfile) | [Folder](julia) | julia docker with VCFTools, DataFrames, and ArgParse packages installed |
+| tychelewustl/julia:dfvcfap | [Link](https://hub.docker.com/repository/docker/tychelewustl/julia/) | [Dockerfile](julia/Dockerfile) | [Folder](julia) | (dfvcfapgz) julia docker with VCFTools, DataFrames, ArgParse, and GZip packages installed |
 
 #### This table contains Dockers I have used that were created by others
 
