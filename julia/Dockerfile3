@@ -1,0 +1,22 @@
+# Use the official Julia image as the base
+FROM julia:latest
+
+# Set the custom Julia depot path environment variable
+ENV JULIA_DEPOT_PATH=/usr/local/julia_depot
+
+# Create the depot directory and ensure wide-open permissions (for demonstration; adjust in production)
+RUN mkdir -p $JULIA_DEPOT_PATH && \
+    chmod -R 777 $JULIA_DEPOT_PATH
+
+# Pre-install the desired Julia packages
+RUN julia -e 'using Pkg; Pkg.add("VCFTools"); Pkg.add("DataFrames"); Pkg.add("ArgParse"); Pkg.add("GZip");'
+
+# Set the working directory in the container
+WORKDIR /usr/src/app
+
+# Copy the rest of your application's code
+COPY . .
+
+# Specify the default command for the container
+CMD ["/bin/bash"]
+
