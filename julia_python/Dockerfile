@@ -19,6 +19,8 @@ RUN conda create -n env python=3.9 -y && \
     . /miniconda/bin/activate env && \
     conda install -c bioconda -c conda-forge snakemake -y
 
+RUN pip3 install snakemake-executor-plugin-lsf
+
 # Set the working directory in the container
 WORKDIR /usr/src/app
 
