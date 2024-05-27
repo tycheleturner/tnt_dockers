@@ -1,13 +1,13 @@
 i# TNT Dockers
 
 ### Tychele N. Turner, Ph.D.
-### Last Update: April 5, 2024
+### Last Update: May 27, 2024
 
 #### This table contains the Dockers I have built and their utilities
 
 | Docker Name | Docker Link | Dockerfile | Docker Folder (for other files) | Program Location |
 | :---: | :---: | :---: | :---: | :---: |
-| tychelewustl/whatshap:version1 | [Link](https://hub.docker.com/r/tychelewustl/whatshap) | [Dockerfile](whatshap/Dockerfile) | [Folder](whatshap/) | `/opt/conda/bin/whatshap` |
+| tychelewustl/whatshap:v.2.3 | [Link](https://hub.docker.com/r/tychelewustl/whatshap) | [Dockerfile](whatshap/Dockerfile) | [Folder](whatshap/) | `/root/.local/bin/whatshap` |
 | tychelewustl/hifiasm:version3 | [Link](https://hub.docker.com/r/tychelewustl/hifiasm) | [Dockerfile](hifiasm/Dockerfile) | [Folder](hifiasm) | `/opt/conda/bin/hifiasm` |
 | tychelewustl/test2:rdna | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](rdna/Dockerfile) | [Folder](rdna) | several requisites for running RNA scripts, digital karyotype scripts |
 | tychelewustl/bwa:version1 | [Link](https://hub.docker.com/r/tychelewustl/bwa/) | [Dockerfile](bwa/Dockerfile) | [Folder](bwa) | several requisites for running manta and bwa |
