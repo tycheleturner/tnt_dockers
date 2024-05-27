@@ -1,4 +1,4 @@
-i# TNT Dockers
+# TNT Dockers
 
 ### Tychele N. Turner, Ph.D.
 ### Last Update: May 27, 2024
