@@ -26,7 +26,7 @@
 | tychelewustl/juliapython:version4 | [Link](https://hub.docker.com/repository/docker/tychelewustl/juliapython/) | [Dockerfile](julia_python/Dockerfile) | [Folder](julia_python) | (version4) julia docker with VCFTools, DataFrames, ArgParse, and GZip packages installed as well as Python, Snakemake, and capabilities to run Snakemake on LSF |
 | tychelewustl/disopred:trial1 | [Link](https://hub.docker.com/repository/docker/tychelewustl/disopred/) | [Dockerfile](disopred/Dockerfile) | [Folder](disopred) | (trial1) Docker with disopred |
 | tychelewustl/fldpnn:trial1 | [Link](https://hub.docker.com/repository/docker/tychelewustl/fldpnn/) | [Dockerfile](fldpnn/Dockerfile) | [Folder](fldpnn) | Docker with fldpnn |
-| tychelewustl/gfatools_caln50:version1 | [Link](https://hub.docker.com/repository/docker/tychelewustl/gfatools_caln50/) | [Dockerfile](gfatools_calN50/Dockerfile) | [Folder](gfatools_caln50) | `/gfatools/gfatools` `/opt/conda/bin/k8 calN50/calN50.js` |
+| tychelewustl/gfatools_caln50:version1 | [Link](https://hub.docker.com/repository/docker/tychelewustl/gfatools_caln50/) | [Dockerfile](gfatools_calN50/Dockerfile) | [Folder](gfatools_calN50/) | `/gfatools/gfatools` `/opt/conda/bin/k8 calN50/calN50.js` |
 
 
 #### This table contains Dockers I have used that were created by others
