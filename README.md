@@ -1,7 +1,7 @@
 # TNT Dockers
 
 ### Tychele N. Turner, Ph.D.
-### Last Update: May 29, 2024
+### Last Update: June 8, 2024
 
 #### This table contains the Dockers I have built and their utilities
 
@@ -19,7 +19,6 @@
 | tychelewustl/test2:sig2 | [Link](https://hub.docker.com/r/tychelewustl/test2/tags) | [Dockerfile](SigProfilerSimulator/Dockerfile) | [Folder](SigProfilerSimulator/) | SigProfilerSimulator related scripts |
 | tychelewustl/unfazed:v1.0.2 | [Link](https://hub.docker.com/r/tychelewustl/unfazed) | [Dockerfile](unfazed/Dockerfile) | [Folder](unfazed/) | unfazed related scripts |
 | tychelewustl/asciigenome:version1 | [Link](https://hub.docker.com/r/tychelewustl/asciigenome) | [Dockerfile](asciigenome/Dockerfile) | [Folder](asciigenome/) | `/opt/conda/bin/ASCIIGenome` |
-| tychelewustl/qmertools:version3 | [Link](https://hub.docker.com/r/tychelewustl/qmertools/) | [Dockerfile](qmerTools/Dockerfile) | [Folder](qmerTools) | qmerTools docker | 
 | tychelewustl/julia:dfvcfap | [Link](https://hub.docker.com/repository/docker/tychelewustl/julia/) | [Dockerfile](julia/Dockerfile) | [Folder](julia) | julia docker with VCFTools, DataFrames, and ArgParse packages installed |
 | tychelewustl/julia:dfvcfap | [Link](https://hub.docker.com/repository/docker/tychelewustl/julia/) | [Dockerfile](julia/Dockerfile) | [Folder](julia) | (dfvcfapgz) julia docker with VCFTools, DataFrames, ArgParse, and GZip packages installed |
 | tychelewustl/julia:dfvcfap3 | [Link](https://hub.docker.com/repository/docker/tychelewustl/julia/) | [Dockerfile](julia/Dockerfile3) | [Folder](julia) | (dfvcfapgz3) julia docker with VCFTools, DataFrames, ArgParse, and GZip packages installed |
